@@ -1,2 +1,2 @@
-# StorytellingFellows-23-24
-Sample work and lesson plans for the 2023-24 Storytelling Fellows workshops at the UW Libraries.
+# UW Libraries Storytelling Fellows, 2023-24
+Sample work and lesson plans for the 2023-24 Storytelling Fellows workshops from the UW Libraries' LibID Team.
