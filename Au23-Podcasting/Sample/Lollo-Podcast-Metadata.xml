@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata 
+xmlns:audacity="https://manual.audacityteam.org/man/metadata_editor.html">
+  <title>Episode 1: Newgrounds</title>
+  <artist>Joe Lollo</artist>
+  <album>The Flash Years Podcast</album>
+  <year>2023</year>
+  <track>1</track>
+  <genre>Podcast</genre>
+  <length xsi:type="https://www.iso.org/iso-8601-date-and-time-format.html">00:00:46</length>
+  <format xsi:type="https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=detailReport&id=654">Microsoft Waveform Audio (.wav)</format>
+  <bitrate>1411 kbps</bitrate>
+</metadata>
